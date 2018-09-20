@@ -1,0 +1,31 @@
+_repo: The-Book-Its-History-and-Development_52932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davenport, Cyril
+    alias: Davenport, Cyril James Humphries
+    birthdate: 1848
+    deathdate: 1941
+    gutenberg_agent_id: '7474'
+    url: http://www.gutenberg.org/2009/agents/7474
+description: ''
+gutenberg_issued: '2016-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books'
+- !lcsh 'Books -- History'
+- !lcsh 'Printing -- History'
+- !lcsh 'Bookbinding'
+- !lcc 'Z'
+- GITenberg
+tableOfContents: Early records -- Rolls, books and bookbindings -- Paper -- Printing
+  -- Illustrations -- Miscellanea -- Leathers -- The ornamentation of leather bookbindings
+  without gold -- The ornamentation of leather bookbindings with gold.
+title: 'The Book: Its History and Development'
+url: http://www.gutenberg.org/ebooks/52932
